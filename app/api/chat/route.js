@@ -35,7 +35,7 @@ Assistant:
 `;
 
 // const apiKey = process.env.GOOGLE_API_KEY;
-const apiKey = "AIzaSyAl8MtaVCIOWOrFphuTq_0992fFwnnIAlY";
+const apiKey = "";
 
 if (!apiKey) {
   console.error("API key is missing");
